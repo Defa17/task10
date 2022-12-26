@@ -1,4 +1,4 @@
-package task10;
+package task10.gui;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

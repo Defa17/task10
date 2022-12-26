@@ -1,6 +1,4 @@
-package task10.logic;
-
-import task10.FrameMain;
+package task10.gui;
 
 public class Task10 {
     public static void main(String[] args) {
